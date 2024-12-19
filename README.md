@@ -1,6 +1,5 @@
 # Verilog-implementation-of-pipelined-MIPS32-processor
 
-# MIPS32 Pipelined Processor
 
 This repository contains the design and implementation of a **MIPS32 pipelined processor** using Verilog. The processor follows a 5-stage pipeline architecture, simulating the execution of various MIPS32 instructions with two-phase clocking.
 
@@ -66,7 +65,7 @@ Thanks to open-source community resources for Verilog MIPS implementations.
 
 ---
 
-## **Explanation of Sections**
+## Explanation of Sections
 
 1. **Project Overview:**
    - Provides a brief summary of what the project is about, including details about the pipeline architecture and supported instructions.
@@ -94,7 +93,7 @@ Thanks to open-source community resources for Verilog MIPS implementations.
 
 ---
 
-## **Customize for Your Needs**
+## Customize for Your Needs
 
 - Adjust the instructions and features based on your actual project content.
 - Add specific test cases or examples you want to highlight.
