@@ -47,3 +47,58 @@ Load immediate values into registers.
 Perform arithmetic operations (ADD, SUB).
 Execute a HLT instruction to stop the processor.
 
+### Code Structure
+pipe_MIPS32.v: Main MIPS32 processor implementation.
+pipe_MIPS32_tb.v: Testbench file to simulate and test the processor.
+README.md: Project documentation.
+.gitignore: Git ignore file to exclude unnecessary files (e.g., .vcd files).
+
+## Contribution
+Feel free to fork this project and create pull requests with improvements, bug fixes, or additional features. Contributions are welcome!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+Inspired by classic MIPS architecture documentation.
+Thanks to open-source community resources for Verilog MIPS implementations.
+
+
+---
+
+### **Explanation of Sections**
+
+1. **Project Overview:**
+   - Provides a brief summary of what the project is about, including details about the pipeline architecture and supported instructions.
+
+2. **Features:**
+   - Lists the key features of the processor, such as pipelined architecture and supported instructions.
+
+3. **Getting Started:**
+   - This section outlines the prerequisites (Verilog simulation software, etc.) and provides step-by-step instructions on how to clone the repository, compile, and run the simulation.
+
+4. **Example Testbench:**
+   - This gives a quick reference to the testbench file that simulates the processor.
+
+5. **Code Structure:**
+   - A quick overview of the project’s directory and what each file contains.
+
+6. **Contribution:**
+   - Information on how others can contribute to the project if they wish to make improvements or additions.
+
+7. **License:**
+   - Information about the project's license (e.g., MIT License). If you don't have a license yet, you can leave it out or create one.
+
+8. **Acknowledgments:**
+   - Mention any inspirations, resources, or contributors that helped you with this project.
+
+---
+
+### **Customize for Your Needs**
+
+- Adjust the instructions and features based on your actual project content.
+- Add specific test cases or examples you want to highlight.
+- If you're using a different simulation tool or have specific setup steps, modify the "Getting Started" section accordingly.
+
+
+
